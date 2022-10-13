@@ -1,0 +1,10 @@
+data\outfiles\butanol.out : -232.1655798347283 
+data\outfiles\decanol.out : -466.3836241400086 
+data\outfiles\ethanol.out : -154.09130176573018 
+data\outfiles\heptanol.out : -349.27397687072676 
+data\outfiles\hexanol.out : -310.2385332251633 
+data\outfiles\methanol.out : -115.04800861868374 
+data\outfiles\nonanol.out : -427.3465180082815 
+data\outfiles\octanol.out : -388.3110864554743 
+data\outfiles\pentanol.out : -271.20138119895074 
+data\outfiles\propanol.out : -193.12836249728798 
